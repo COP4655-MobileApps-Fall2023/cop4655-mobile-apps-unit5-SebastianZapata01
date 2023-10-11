@@ -1,43 +1,33 @@
-# cop4655-mobile-apps-unit5-SebastianZapata01
-cop4655-mobile-apps-unit5-SebastianZapata01 created by GitHub Classroom
-# Project 5 - BeReal
+# Project 6 - BeReal
 
 Submitted by: Sebastian Zapata
 
-BeReal is an app that allows you to create a new account and login to create post with a photo.
+BeReal is an app that introduces you to a space where you can make posts with a photo and a caption. However you need to make a post to see posts from others.
 
-Time spent: 4 hours spent in total
+Time spent: 3 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [x] User can register a new account
-- [x] User can log in with newly created account
-- [x] App has a feed of posts when user logs in
-- [x] User can upload a new post which takes in a picture from photo library and a caption	
- 
-The following **optional** features are implemented:
-
-- [x] Users can pull to refresh their feed and see a loading indicator
-- [x] Users can infinite-scroll in their feed to see past the 10 most recent photos
-- [ ] Users can see location and time of photo upload in the feed	
-- [x] User is able to logout
-- [x] User stays logged in when app is closed and open again	
+- [x] User can launch camera to take photo instead of photo library
+- [x] User session persists when application is closed and relaunched
+- [x] Users are able to log out and return to sign in page
+- [x] Users are NOT able to see other photos until they upload their own	
 
 ## Video Walkthrough
 
 <div>
-    <a href="https://www.loom.com/share/9cd58cc7fc374146bf32c0be670a188c">
+    <a href="https://www.loom.com/share/a414298b88074f6da69502ed2b49317f">
     </a>
-    <a href="https://www.loom.com/share/9cd58cc7fc374146bf32c0be670a188c">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9cd58cc7fc374146bf32c0be670a188c-with-play.gif">
+    <a href="https://www.loom.com/share/a414298b88074f6da69502ed2b49317f">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/a414298b88074f6da69502ed2b49317f-with-play.gif">
     </a>
   </div>
 
 ## Notes
 
-Nothing to note.
+I had no real challenges.
 
 ## License
 
