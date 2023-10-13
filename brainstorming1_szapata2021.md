@@ -7,7 +7,7 @@ Sebastian Zapata
 ## Description
 Making a list of our favorite apps and for each app, identifying 2-3 features of that app that make it stand out.
 ##
-**Member: ==Dayaan Mazhar==**
+**Member: Dayaan Mazhar**
 1. Facebook
    - Shows me content to watch based on my liking of the content
    - Being able to look at friends posts through home feed
@@ -23,7 +23,7 @@ Making a list of our favorite apps and for each app, identifying 2-3 features of
    - Has challenges at the end of each unit that make me want to learn or excite me
    - Has a feature that allows you to compete with others
 
-**Member: ==Christian Rodrigues==**
+**Member: Christian Rodrigues**
 1. Gmail
    - Allows me to send and recieve messages from users that have my gmail address
    - Users can label and group messages into different folders for organization
@@ -39,7 +39,7 @@ Making a list of our favorite apps and for each app, identifying 2-3 features of
    - Main content is based off what the user follows but there are features to see new content
    - Also allows users to send posts to one another privately and make conversations
 
-**Member: ==Richelle Plummer==**
+**Member: Richelle Plummer**
 1. Discord
    - Offers high-quality voice chat and screensharing, making it a go to for gamers around the world.
    - Users can create their own servers, where they can tailor roles, channels, and permissions.
@@ -55,7 +55,7 @@ Making a list of our favorite apps and for each app, identifying 2-3 features of
    - Algorithm-driven content, which keeps users engaged with personalized recommendations
    - Offers creative tools and effects for easy video enhancement and editing
 
-**Member: ==Sebastian Zapata==**
+**Member: Sebastian Zapata**
 1. YouTube
     - You can watch any videos you want on that website.
    - You can also make your own channel to upload videos and stream.
